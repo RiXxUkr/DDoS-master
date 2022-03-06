@@ -9,6 +9,7 @@
 │   └─►Відкрити термінал
 │     └─►Ввести команди
 │       ├─►sudo apt-get install git
+│       ├─►git clone https://github.com/RiXxUkr/DDoS-master.git
 │       ├─►cd DDoS-master/
 │       └─►bash setup.sh
 ├─►Вимоги (встановлюються автоматично при встановленні, на пункт вище)
