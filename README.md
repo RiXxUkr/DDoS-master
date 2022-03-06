@@ -1,5 +1,4 @@
 # DDoS-master
-DDoS-master
 
 Eng/Англ: I do not bear responsibility for using this scripts for any goals. (RiX/RiXxUkr)
 
